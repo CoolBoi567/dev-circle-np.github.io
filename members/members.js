@@ -1,6 +1,17 @@
 /* Member information */
 
 const members = [
+  // prashant
+  {
+    fullName: 'Prashant Shahi',
+    discordUsername: 'CoolBoi567#2925',
+    about: 'Jack of all, Master of none..',
+    links: {
+      github: 'coolboi567',
+      twitter: 'coolboi567',
+      facebook: 'coolboi567'  // Account Not Public, Sorry..
+    }
+  },
   // rameshsyn
   {
     fullName: 'Ramesh Syangtan',
